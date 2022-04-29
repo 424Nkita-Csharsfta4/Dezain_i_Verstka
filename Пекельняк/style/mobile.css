@@ -1,1 +1,6 @@
-/* No CSS *//*# sourceMappingURL=mobile.css.map */
+@media screen and (max-width: 1200px) {
+  .card.ok {
+    width: 10rem;
+  }
+}
+/*# sourceMappingURL=mobile.css.map */
